@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sameel&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sameel" /> </p>
 
-- 🔭 I’m currently working on [Api with Getx](https://github.com/Dev-Sameel/Api-with-Getx)
+- 🔭 I’m currently working on E-Commerce App
 
 - 🌱 I’m currently learning **Flutter**
 
